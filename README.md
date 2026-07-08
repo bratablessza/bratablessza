@@ -25,7 +25,7 @@
 
 Fullstack developer crafting robust systems and elegant interfaces. I thrive on finding real problems that need solving and building the right solution — whether it's a healthcare platform, an enterprise procurement system, or a WhatsApp chatbot powered by AI.
 
-- 🔭 Currently building **enterprise web apps** at PT Bukit Silikon
+- 🔭 Currently building **enterprise web apps** at a healthcare technology company
 - 🌱 Deep-diving into **AI/LLM integration** and **OSINT tooling**
 - 🐈 I code best with a cat nearby (or at least a cat emoji)
 - 🎵 When not coding: outdoor adventures, music, and photography
@@ -95,11 +95,11 @@ Fullstack developer crafting robust systems and elegant interfaces. I thrive on 
 ```mermaid
 timeline
     title Career Journey 🐾
-    2024-Present : Programmer @ PT Bukit Silikon
+    2024-Present : Programmer @ Healthcare Tech Co
                  : Healthcare & OSINT platforms
-    2022-2024    : Programmer @ PT AMN Indonesia
+    2022-2024    : Programmer @ Enterprise Solutions Co
                  : Enterprise procurement & LMS
-    2022         : .NET Developer @ PT BCA Tbk
+    2022         : .NET Developer @ Financial Services Co
                  : Financial automation systems
     2019         : Mobile Developer Intern
                  : Android learning apps
@@ -107,10 +107,10 @@ timeline
 
 | When | Where | What |
 |------|-------|------|
-| **Jun 2024 – Now** | PT Bukit Silikon | Building Medimobile healthcare suite, FSMinerals OSINT, Lonestar |
-| **Oct 2022 – Jun 2024** | PT AMN Indonesia | POPS procurement portal, Honda parts shop, Daihatsu disposal, IAMI LMS |
-| **Feb 2022 – Oct 2022** | PT BCA Tbk | Financial automation apps, legacy-to-modern migration, SQL optimization |
-| **Jul 2019 – Sep 2019** | Aisyiyah Kindergarten | Built Android mobile learning app for kindergarten students |
+| **Jun 2024 – Now** | Healthcare Tech Co | Building healthcare platforms, OSINT tools, enterprise systems |
+| **Oct 2022 – Jun 2024** | Enterprise Solutions Co | Procurement portal, parts management, disposal system, LMS platform |
+| **Feb 2022 – Oct 2022** | Financial Services Co | Financial automation apps, legacy-to-modern migration, SQL optimization |
+| **Jul 2019 – Sep 2019** | Local Kindergarten | Built Android mobile learning app for kindergarten students |
 
 ---
 
