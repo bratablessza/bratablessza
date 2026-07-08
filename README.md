@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E1%93%9A%E2%88%99%CD%98%E1%97%A2+Brata+Blessza+%E1%93%9A%E2%88%99%CD%98%E1%97%A2;Versatile+Developer+%F0%9F%92%BB;Cat+Enthusiast+%F0%9F%90%88;Building+robust+systems+%F0%9F%94%A7;Writing+clean+code+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Brata+Blessza+Cham;Versatile+Developer+%F0%9F%92%BB;Cat+Enthusiast+%F0%9F%90%88;Building+robust+systems+%F0%9F%94%A7;Writing+clean+code+%E2%9C%A8" alt="Typing SVG" />
 
 ---
 
@@ -87,19 +87,6 @@ Fullstack developer crafting robust systems and elegant interfaces. I thrive on 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bratablessza&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9" />
 </div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**portofolio**](https://github.com/bratablessza/portofolio) | Single-page developer portfolio — React + Vite + Tailwind CSS | `React` `Vite` `Tailwind` |
-| [**bot-wa-ai**](https://github.com/bratablessza/bot-wa-ai) | WhatsApp chatbot powered by DeepSeek AI | `JavaScript` `AI` `WhatsApp` |
-| [**bratablessza.github.io**](https://github.com/bratablessza/bratablessza.github.io) | Personal GitHub Pages site | `SCSS` `HTML` |
-| [**amn_vue_js**](https://github.com/bratablessza/amn_vue_js) | Enterprise Vue.js application | `Vue.js` `JavaScript` |
-| [**BusAPIService**](https://github.com/bratablessza/BusAPIService) | Bus API service backend | `Java` `Spring Boot` |
-| [**Laravel-Crud**](https://github.com/bratablessza/Laravel-Crud) | First web app with Laravel — full CRUD | `PHP` `Laravel` |
 
 ---
 
