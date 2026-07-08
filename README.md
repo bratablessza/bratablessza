@@ -1,5 +1,13 @@
 <div align="center">
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=bratablessza&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/bratablessza"
+    width="600"
+    height="120"
+  />
+</a>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Brata+Blessza+Cham;Versatile+Developer+%F0%9F%92%BB;Cat+Enthusiast+%F0%9F%90%88;Building+robust+systems+%F0%9F%94%A7;Writing+clean+code+%E2%9C%A8" alt="Typing SVG" />
 
 ---
