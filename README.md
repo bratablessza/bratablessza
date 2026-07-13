@@ -101,40 +101,9 @@ Fullstack developer crafting robust systems and elegant interfaces. I thrive on 
 
 ---
 
-### 💼 Experience
-
-```mermaid
-timeline
-    title Career Journey 🐾
-    2024-Present : Programmer @ Healthcare Tech Co
-                 : Healthcare & OSINT platforms
-    2022-2024    : Programmer @ Enterprise Solutions Co
-                 : Enterprise procurement & LMS
-    2022         : .NET Developer @ Financial Services Co
-                 : Financial automation systems
-    2019         : Mobile Developer Intern
-                 : Android learning apps
-```
-
-| When | Where | What |
-|------|-------|------|
-| **Jun 2024 – Now** | Healthcare Tech Co | Building healthcare platforms, OSINT tools, enterprise systems |
-| **Oct 2022 – Jun 2024** | Enterprise Solutions Co | Procurement portal, parts management, disposal system, LMS platform |
-| **Feb 2022 – Oct 2022** | Financial Services Co | Financial automation apps, legacy-to-modern migration, SQL optimization |
-| **Jul 2019 – Sep 2019** | Local Kindergarten | Built Android mobile learning app for kindergarten students |
-
----
-
-### 🎓 Education
-
-- 🎓 **B.InfoSys** — Putra Indonesia University (2020)
-- 🧑‍💻 **Java Fullstack Bootcamp** — Juara Coding (2021–2022)
-
----
-
 <div align="center">
 
-### 🐱✧･ﾟ: *✧･ﾟ:* ฅ^•ﻌ•^ฅ *:･ﾟ✧*:･ﾟ✧
+### 🐱
 
 *"In a world full of bugs, be a cat — land on your feet."*
 
